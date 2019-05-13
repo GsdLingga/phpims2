@@ -1,0 +1,8 @@
+certifi	2019.3.9	2019.3.9
+chardet	3.0.4	3.0.4
+config	0.4.2	0.4.2
+idna	2.8	2.8
+pip	19.1.1	19.1.1
+requests	2.21.0	2.21.0
+setuptools	39.1.0	41.0.1
+urllib3	1.24.3	1.25.2
