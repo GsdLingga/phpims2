@@ -4,13 +4,13 @@ import time
 import urllib
 
 import config
+
 from dbhelper import DBHelper
 
 db = DBHelper()
 
 TOKEN = '728232290:AAEHkvLys1w0Lyx7vwQ53DXY2cSOT1EJAko'
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
-
 
 def get_url(url):
     response = requests.get(url)
